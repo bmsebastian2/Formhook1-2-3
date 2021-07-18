@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Formhook1-2-3/static/js/main.e5e0f502.chunk.js",
+    "main.js.map": "/Formhook1-2-3/static/js/main.e5e0f502.chunk.js.map",
+    "runtime-main.js": "/Formhook1-2-3/static/js/runtime-main.0a250ca7.js",
+    "runtime-main.js.map": "/Formhook1-2-3/static/js/runtime-main.0a250ca7.js.map",
+    "static/js/2.b5656034.chunk.js": "/Formhook1-2-3/static/js/2.b5656034.chunk.js",
+    "static/js/2.b5656034.chunk.js.map": "/Formhook1-2-3/static/js/2.b5656034.chunk.js.map",
+    "index.html": "/Formhook1-2-3/index.html",
+    "static/js/2.b5656034.chunk.js.LICENSE.txt": "/Formhook1-2-3/static/js/2.b5656034.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a250ca7.js",
+    "static/js/2.b5656034.chunk.js",
+    "static/js/main.e5e0f502.chunk.js"
+  ]
+}
