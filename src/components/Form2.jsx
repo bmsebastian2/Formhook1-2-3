@@ -4,12 +4,9 @@ import { useForm } from "react-hook-form";
 const Form2 = () => {
     
     const { register, handleSubmit, watch, formState: { errors } } = useForm();
-    
     const watchShowAge = watch("showAge", false); // you can supply default value as second argument
-    const watchFields = watch(["showAge", "number"]); // you can also target specific fields by their names
     const onSubmit = data => console.log(data);  
-    
-    
+       
     return (
         <div className="container mt-5">
 
